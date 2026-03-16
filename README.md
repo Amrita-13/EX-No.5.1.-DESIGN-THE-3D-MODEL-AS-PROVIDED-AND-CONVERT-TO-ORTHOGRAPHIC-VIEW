@@ -1,4 +1,4 @@
-<img width="983" height="697" alt="image" src="https://github.com/user-attachments/assets/d9301dd9-9791-4495-ade1-361250ff1424" />99# EX No.5.1.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
+# EX No.5.1.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
 ## DATE:23-02-2026
 ## NAME: Amrita B S(212225100002)
 ## AIM: 
@@ -37,7 +37,7 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
 <img width="813" height="583" alt="image" src="https://github.com/user-attachments/assets/808d99c1-745e-4913-abf7-86b0a64adcf8" />
-<img width="813" height="583" alt="image" src="https://github.com/user-attachments/assets/87569ece-5a55-4570-9b25-c562f60ffd05" />
+<img width="983" height="697" alt="image" src="https://github.com/user-attachments/assets/3d5c381b-3a99-4968-af7c-13487bcfa9da" />
 
 
 ## RESULT:
